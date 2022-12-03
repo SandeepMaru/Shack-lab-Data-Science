@@ -21,4 +21,4 @@ Libraries & Frameworks Used in Task 1
 13. RandomizedSearchCV (Hyperparameter Tuning)
 
 
-Multicollinearity : There is minimal or no multicollinearity among the independent variables. It usually requires a large sample size to predict properly. It assumes the observations to be independent of each other.
+Among all model RandomForestRegressor gives the higest accuracy of 78% and again to improve its accuracy with the help of RandomizedSearchCV hyperparameter tunning is done and the accuracy is now around approx 80% .
